@@ -1,4 +1,3 @@
-SimCity Project:
 
 Compilation Instructions:
 ------------------------
